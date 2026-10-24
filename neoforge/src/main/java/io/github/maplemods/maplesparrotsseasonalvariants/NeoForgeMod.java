@@ -1,7 +1,7 @@
-package io.github.maplemods.maplesparrotcollection;
+package io.github.maplemods.maplesparrotsseasonalvariants;
 
 
-import io.github.maplemods.maplesparrotcollection.data.Constants;
+import io.github.maplemods.maplesparrotsseasonalvariants.data.Constants;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 
